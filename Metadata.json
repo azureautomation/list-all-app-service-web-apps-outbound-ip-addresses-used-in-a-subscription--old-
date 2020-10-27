@@ -1,7 +1,7 @@
 {
     "Author": "s_lapointe",
     "ContentSize": 1215,
-    "ContentUrl": "https://raw.githubusercontent.com/azureautomation/list-all-app-service-web-apps-outbound-ip-addresses-used-in-a-subscription-(old)/master/Get-AppServiceWebAppsOutboundIpAddresses.ps1",
+    "ContentUrl": "https://raw.githubusercontent.com/azureautomation/list-all-app-service-web-apps-outbound-ip-addresses-used-in-a-subscription--old-/master/Get-AppServiceWebAppsOutboundIpAddresses.ps1",
     "DownloadCount": 2003,
     "Id": "List-all-App-Service-web-4d563f14",
     "IsFederated": false,
@@ -15,6 +15,6 @@
     "Summary": "You'll find in this function an easy way to extract the outbound IP addresses information used by your all your App Services in a subscription within an authenticated PowerShell Azure session.",
     "Title": "List all App Service web apps outbound IP addresses used in a subscription (Old)",
     "UpdatedDate": "2019-4-15T00:00:00",
-    "Url": "https://github.com/azureautomation/list-all-app-service-web-apps-outbound-ip-addresses-used-in-a-subscription-(old)",
+    "Url": "https://github.com/azureautomation/list-all-app-service-web-apps-outbound-ip-addresses-used-in-a-subscription--old-",
     "UserTags": "Microsoft Azure, Powershell, IP Address"
 }
